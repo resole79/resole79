@@ -18,7 +18,7 @@ Program that allows the user to access two different financial calculators: an i
 - December 2022 – March 2023 Software Engineering Bootcamp at HyperionDev
 - 2003 Web Oriented Java Developer
 - 2002 - 2003 Web Graphic Operator
-- 1999 - 2000Secondary School Diploma in IT 
+- 1999 - 2000 Secondary School Diploma in IT 
 
 
 # 
