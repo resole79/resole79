@@ -1,6 +1,6 @@
 # Hi,
 
-### I'm resole79
+### It's resole79 here
 
 I have had a dream since 8 years old: to become a **developer**.  
 My first program was with the commodore 64 at 9 years old.  
@@ -14,7 +14,10 @@ Now I'm studying Python at HyperionDev to return to my passion and work again as
 <img src="./image/python.png"> &nbsp;<img src="./image/php.png"> &nbsp; <img src="./image/html.png"> &nbsp; <img src="./image/css.png"> &nbsp; <img src="./image/mysql.png">
 
 # Python Project
-
+ - [Semantic NLP](https://github.com/resole79/semantic_nlp)
+Function to return which movies a user would watch next (watch_next.py)
+ - [Task Manager (II Version)](https://github.com/resole79/task_manager_II)     
+Program for a small business that can help it to manage tasks assigned to each member of the team
  - [Task Manager](https://github.com/resole79/task_manager)     
 Program for a small business that can help it to manage tasks assigned to each member of the team
  - [Finance Calculator](https://github.com/resole79/finance_calculator)     
