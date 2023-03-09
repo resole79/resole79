@@ -16,6 +16,8 @@ Now I'm studying Python at HyperionDev to return to my passion and work again as
 # Python Project
  - [Semantic NLP](https://github.com/resole79/semantic_nlp)
 Function to return which movies a user would watch next (watch_next.py)
+ - [Shoe Inventory](https://github.com/resole79/shoe_inventory)
+Program that will read from the text file inventory.txt and perform the following on the data: read shoes data, re-stock shoe, search shoe
  - [Task Manager (II Version)](https://github.com/resole79/task_manager_II)     
 Program for a small business that can help it to manage tasks assigned to each member of the team
  - [Task Manager](https://github.com/resole79/task_manager)     
