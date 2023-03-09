@@ -11,7 +11,7 @@ Now I'm studying Python at HyperionDev to return to my passion and work again as
 
 # Technical Skills
 
-<img src="./image/python.png"> &nbsp;<img src="./image/php.png"> &nbsp; <img src="./image/html.png"> &nbsp; <img src="./image/css.png"> &nbsp; <img src="./image/mysql.png">
+<img src="./image/python.png"> &nbsp;<img src="./image/php.png"> &nbsp; <img src="./image/html.png"> &nbsp; <img src="./image/css.png"> &nbsp; <img src="./image/bootstrap.png">&nbsp; <img src="./image/mysql.png">
 
 # Python Project
  - [Semantic NLP](https://github.com/resole79/semantic_nlp)
