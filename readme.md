@@ -20,11 +20,13 @@ I'm studing Python at [udemy](https://www.udemy.com/) 100 Days of Code: The Comp
 
 I’m currently learning **Python**, **Tkinter** 
 
-# Python Project *#100DaysOfCode*
+# Python Project
+
+### *#100DaysOfCode*
  - [PyPassword Generator](https://github.com/resole79/password_random_generator) Program to generate a random password.     
  - [Rock, Paper, Scissors](https://github.com/resole79/rock_paper_scissors_game) Program for **Rock, Paper, Scissors** game.     
  
-# Python Project for HyperionDev Bootcamp
+### HyperionDev Bootcamp
  - [Ebook Store](https://github.com/resole79/ebookstore)
 Program that can be used by a bookstore clerk.     
 The program will add, update, delete and search books from the database sqlite call ebookstore
