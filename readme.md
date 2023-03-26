@@ -8,10 +8,9 @@ After primary school, in Italy, I attended an IT school and that experience gave
 I have been working as **web developer** for ten years.  
 I came to the UK in 2014 and worked in hospitality. 
 
-I studied Python at HyperionDev's Software Engineering Bootcamp.
+I studied Python at [HyperionDev's](https://www.hyperiondev.com/) Software Engineering Bootcamp.
 
- 
-Thanks to HyperionDev for this occasion to return to my dream     
+I'm studing Python at [udemy](https://www.udemy.com/) 100 Days of Code: The Complete Python Pro Bootcamp for 2023 by Angela Yu
 
 
 # Technical Skills
@@ -19,10 +18,12 @@ Thanks to HyperionDev for this occasion to return to my dream
 <img src="./image/python.png"> &nbsp;<img src="./image/php.png"> &nbsp; <img src="./image/html.png"> &nbsp; <img src="./image/css.png"> &nbsp; <img src="./image/bootstrap.png">&nbsp; <img src="./image/sqlite.png">&nbsp; <img src="./image/mysql.png">
 
 
+I’m currently learning **Python**, **Tkinter** 
 
-I’m currently learning **Python**, **Django** 
-
-
+# Python Project *#100DaysOfCode*
+ - [PyPassword Generator](https://github.com/resole79/password_random_generator) Program to generate a random password.     
+ - [Rock, Paper, Scissors](https://github.com/resole79/rock_paper_scissors_game) Program for **Rock, Paper, Scissors** game.     
+ 
 # Python Project for HyperionDev Bootcamp
  - [Ebook Store](https://github.com/resole79/ebookstore)
 Program that can be used by a bookstore clerk.     
@@ -42,6 +43,7 @@ Program that allows the user to access two different financial calculators: an i
 
 # Education
 
+- March 2023 ( still enrolled ) *100 Days of Code: The Complete Python Pro Bootcamp*
 - December 2022 – March 2023 *Software Engineering Bootcamp at HyperionDev*
 - 2003 *Web Oriented Java Developer*
 - 2002 - 2003 *Web Graphic Operator*
