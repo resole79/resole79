@@ -23,8 +23,9 @@ I’m currently learning **Python**, **Tkinter**
 # Python Project
 
 ### *#100DaysOfCode*
+ - [Hangman Game](https://github.com/resole79/hangman) Program for **Hangman** game.     
  - [PyPassword Generator](https://github.com/resole79/password_random_generator) Program to generate a random password.     
- - [Rock, Paper, Scissors](https://github.com/resole79/rock_paper_scissors_game) Program for **Rock, Paper, Scissors** game.     
+ - [Rock, Paper, Scissors Game](https://github.com/resole79/rock_paper_scissors_game) Program for **Rock, Paper, Scissors** game.     
  
 ### HyperionDev Bootcamp
  - [Ebook Store](https://github.com/resole79/ebookstore)
