@@ -15,14 +15,19 @@ I'm studing Python at [udemy](https://www.udemy.com/) 100 Days of Code: The Comp
 
 # Technical Skills
 
-<img src="./image/python.png"> &nbsp;<img src="./image/php.png"> &nbsp; <img src="./image/html.png"> &nbsp; <img src="./image/css.png"> &nbsp; <img src="./image/bootstrap.png">&nbsp; <img src="./image/sqlite.png">&nbsp; <img src="./image/mysql.png">
+![python](./image/python.png) ![php](./image/php.png) ![html](./image/html.png) ![css](./image/css.png) ![bootstrap](./image/bootstrap.png) ![sqlite](./image/sqlite.png)![mysql](./image/mysql.png)
 
 
 I’m currently learning **Python**, **Tkinter** 
 
+<!--# Python + Tkinder Projects
+ - [Bin2Dec / Dec2Bin](https://github.com/resole79/converter_binary_decimal)
+-->
+ 
 # Python Projects
 
 ### *#100DaysOfCode*
+ - [Guess Number Game](https://github.com/resole79/guess_number) Program for **Guess Number** Game.     
  - [BlackJack Game](https://github.com/resole79/blackjack) Program for **BlackJack** Game.     
  - [Caesar Cipher](https://github.com/resole79/caesar_cipher) Program to generate **Caesar Cipher**.     
  - [Hangman Game](https://github.com/resole79/hangman) Program for **Hangman** Game.     
@@ -48,7 +53,7 @@ Program that allows the user to access two different financial calculators: an i
 
 # Education
 
-- March 2023 ( still enrolled ) *100 Days of Code: The Complete Python Pro Bootcamp*
+- March 2023 ( still enrolled ) *100 Days of Code: The Complete Python Pro Bootcamp by Angela Yu at Udemy*
 - December 2022 – March 2023 *Software Engineering Bootcamp at HyperionDev*
 - 2003 *Web Oriented Java Developer*
 - 2002 - 2003 *Web Graphic Operator*
