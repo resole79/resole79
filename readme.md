@@ -12,7 +12,6 @@ I studied Python at [HyperionDev's](https://www.hyperiondev.com/) Software Engin
 
 I'm studing Python at [udemy](https://www.udemy.com/) 100 Days of Code: The Complete Python Pro Bootcamp for 2023 by Angela Yu
 
-
 # Technical Skills
 
 ![python](./image/python.png) ![php](./image/php.png) ![html](./image/html.png) ![css](./image/css.png) ![bootstrap](./image/bootstrap.png) ![sqlite](./image/sqlite.png)![mysql](./image/mysql.png)
@@ -20,9 +19,7 @@ I'm studing Python at [udemy](https://www.udemy.com/) 100 Days of Code: The Comp
 
 I’m currently learning **Python**, **Tkinter** 
 
-<!--# Python + Tkinder Projects
- - [Bin2Dec / Dec2Bin](https://github.com/resole79/converter_binary_decimal)
--->
+- ### **I am currently working on [Bin2Dec / Dec2Bin](https://github.com/resole79/binary_to_decimal)**
  
 # Python Projects
 
