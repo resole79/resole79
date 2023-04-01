@@ -20,7 +20,7 @@ I'm studing Python at [udemy](https://www.udemy.com/) 100 Days of Code: The Comp
 
 I’m currently learning **Python**, **Tkinter** 
 
-# Python Project
+# Python Projects
 
 ### *#100DaysOfCode*
  - [BlackJack Game](https://github.com/resole79/blackjack) Program for **BlackJack** Game.     
