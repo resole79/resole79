@@ -23,7 +23,9 @@ I’m currently learning **Python**, **Tkinter**
 # Python Project
 
 ### *#100DaysOfCode*
- - [Hangman Game](https://github.com/resole79/hangman) Program for **Hangman** game.     
+ - [BlackJack Game](https://github.com/resole79/blackjack) Program for **BlackJack** Game.     
+ - [Caesar Cipher](https://github.com/resole79/caesar_cipher) Program to generate **Caesar Cipher**.     
+ - [Hangman Game](https://github.com/resole79/hangman) Program for **Hangman** Game.     
  - [PyPassword Generator](https://github.com/resole79/password_random_generator) Program to generate a random password.     
  - [Rock, Paper, Scissors Game](https://github.com/resole79/rock_paper_scissors_game) Program for **Rock, Paper, Scissors** game.     
  
