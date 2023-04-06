@@ -24,6 +24,9 @@ I’m currently learning **Python**, **Tkinter**
 # Python Projects
 
 ### *#100DaysOfCode*
+
+ - [Coffee Machine](https://github.com/resole79/coffee_machine) Program to simulates a **Coffee Machine** written in python.     
+ - [Higher Lower Game](https://github.com/resole79/higher_lower) Program for **Higher Lower** Game.   .     
  - [Guess Number Game](https://github.com/resole79/guess_number) Program for **Guess Number** Game.     
  - [BlackJack Game](https://github.com/resole79/blackjack) Program for **BlackJack** Game.     
  - [Caesar Cipher](https://github.com/resole79/caesar_cipher) Program to generate **Caesar Cipher**.     
