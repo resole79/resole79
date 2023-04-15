@@ -24,7 +24,8 @@ I’m currently learning **Python**, **Tkinter**
 # Python Projects
 
 ### *#100DaysOfCode*
-
+ - [Turtle Function](https://github.com/resole79/turtle_function) ome Turtle function to create different shapes, dash line, random wolk, square and Damien Hirst paint     
+ - [Quiz Game](https://github.com/resole79/quiz_game) OOP version of the **"Simple Quiz Game"**      
  - [Coffee Machine](https://github.com/resole79/coffee_machine) Program to simulates a **Coffee Machine** written in python.     
  - [Higher Lower Game](https://github.com/resole79/higher_lower) Program for **Higher Lower** Game.   .     
  - [Guess Number Game](https://github.com/resole79/guess_number) Program for **Guess Number** Game.     
