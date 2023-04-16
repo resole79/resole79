@@ -24,6 +24,7 @@ I’m currently learning **Python**, **Tkinter**
 # Python Projects
 
 ### *#100DaysOfCode*
+ - [Etch A Sketch](https://github.com/resole79/etch_a_sketch) Program to simulates a **Etch A Sketch** Toy written in python.
  - [Turtle Function](https://github.com/resole79/turtle_function) ome Turtle function to create different shapes, dash line, random wolk, square and Damien Hirst paint     
  - [Quiz Game](https://github.com/resole79/quiz_game) OOP version of the **"Simple Quiz Game"**      
  - [Coffee Machine](https://github.com/resole79/coffee_machine) Program to simulates a **Coffee Machine** written in python.     
