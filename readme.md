@@ -24,6 +24,8 @@ I’m currently learning **Python**, **Tkinter**
 # Python Projects
 
 ### *#100DaysOfCode*
+ - [Snake Game](https://github.com/resole79/snake_game) OOP version **[Snake](https://en.wikipedia.org/wiki/Snake_(video_game_genre)) Game** written in Python using the turtle library. 
+ - [Turtle Race](https://github.com/resole79/turtle_race) Randomly simulated **Turtle Race**.
  - [Etch A Sketch](https://github.com/resole79/etch_a_sketch) Program to simulates a **Etch A Sketch** Toy written in python.
  - [Turtle Function](https://github.com/resole79/turtle_function) Turtle functions to create different shapes, dash line, random walk, square and [Damien Hirst](https://en.wikipedia.org/wiki/Damien_Hirst) paint      
  - [Quiz Game](https://github.com/resole79/quiz_game) OOP version of the **"Simple Quiz Game"**      
