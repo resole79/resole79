@@ -24,6 +24,7 @@ I’m currently learning **Python**, **Tkinter**
 # Python Projects
 
 ### *#100DaysOfCode*
+ - [Pong Game](https://github.com/resole79/pong_game) OOP version **[Pong](https://en.wikipedia.org/wiki/Pong) Game** written in Python using the turtle library. 
  - [Snake Game](https://github.com/resole79/snake_game) OOP version **[Snake](https://en.wikipedia.org/wiki/Snake_(video_game_genre)) Game** written in Python using the turtle library. 
  - [Turtle Race](https://github.com/resole79/turtle_race) Randomly simulated **Turtle Race**.
  - [Etch A Sketch](https://github.com/resole79/etch_a_sketch) Program to simulates a **Etch A Sketch** Toy written in python.
