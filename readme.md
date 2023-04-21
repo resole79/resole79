@@ -24,6 +24,8 @@ I’m currently learning **Python**, **Tkinter**
 # Python Projects
 
 ### *#100DaysOfCode*
+ - [U.S. States Game](https://github.com/resole79/us_states_game) Game written in Python using the Pandas and Turtle library.
+ - [Turtles Crossing](https://github.com/resole79/turtles_crossing) OOP Game written in Python using the turtle library.
  - [Pong Game](https://github.com/resole79/pong_game) OOP version **[Pong](https://en.wikipedia.org/wiki/Pong) Game** written in Python using the turtle library. 
  - [Snake Game](https://github.com/resole79/snake_game) OOP version **[Snake](https://en.wikipedia.org/wiki/Snake_(video_game_genre)) Game** written in Python using the turtle library. 
  - [Turtle Race](https://github.com/resole79/turtle_race) Randomly simulated **Turtle Race**.
