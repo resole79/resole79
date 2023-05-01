@@ -27,7 +27,7 @@ I’m currently learning **Python**, **Tkinter** , **JavaScript**
 # Python Projects
 
 ### *#100DaysOfCode*
- - [Flash Card Game](https://github.com/resole79/password_manager_gui) Flash Card Game written in Python using the Tkinter and Pandas library.
+ - [Flash Card Game](https://github.com/resole79/flash_card_game) Flash Card Game written in Python using the Tkinter and Pandas library.
  - [Password Manager](https://github.com/resole79/password_manager_gui) Password Manager written in Python using the Tkinter library.
  - [Pomodoro Timer](https://github.com/resole79/pomodoro_timer) Tkinter version Pomodoro Timer        
  - [U.S. States Game](https://github.com/resole79/us_states_game) Game written in Python using the Pandas and Turtle library.
