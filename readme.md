@@ -8,7 +8,10 @@ After primary school, in Italy, I attended an IT school and that experience gave
 I have been working as **web developer** for ten years.  
 I came to the UK in 2014 and worked in hospitality. 
 
-I studied Python at [HyperionDev's](https://www.hyperiondev.com/) Software Engineering Bootcamp.
+I studied Python at [HyperionDev's](https://www.hyperiondev.com/) Software Engineering Bootcamp.       
+(I have "Skill Bootcamp in **Software Engineering** certificate")           
+
+
 
 I'm studing Python at [udemy](https://www.udemy.com/) 100 Days of Code: The Complete Python Pro Bootcamp for 2023 by Angela Yu
 
@@ -17,13 +20,16 @@ I'm studing Python at [udemy](https://www.udemy.com/) 100 Days of Code: The Comp
 ![python](./image/python.png) ![php](./image/php.png) ![html](./image/html.png) ![css](./image/css.png) ![bootstrap](./image/bootstrap.png) ![sqlite](./image/sqlite.png)![mysql](./image/mysql.png)
 
 
-I’m currently learning **Python**, **Tkinter** 
+I’m currently learning **Python**, **Tkinter** , **JavaScript**
 
 - ### **I am currently working on [Bin2Dec / Dec2Bin](https://github.com/resole79/binary_to_decimal)**
  
 # Python Projects
 
 ### *#100DaysOfCode*
+ - [Flash Card Game](https://github.com/resole79/password_manager_gui) Flash Card Game written in Python using the Tkinter and Pandas library.
+ - [Password Manager](https://github.com/resole79/password_manager_gui) Password Manager written in Python using the Tkinter library.
+ - [Pomodoro Timer](https://github.com/resole79/pomodoro_timer) Tkinter version Pomodoro Timer        
  - [U.S. States Game](https://github.com/resole79/us_states_game) Game written in Python using the Pandas and Turtle library.
  - [Turtles Crossing](https://github.com/resole79/turtles_crossing) OOP Game written in Python using the turtle library.
  - [Pong Game](https://github.com/resole79/pong_game) OOP version **[Pong](https://en.wikipedia.org/wiki/Pong) Game** written in Python using the turtle library. 
