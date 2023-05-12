@@ -27,6 +27,8 @@ I’m currently learning **Python**, **Tkinter** , **JavaScript**
 # Python Projects
 
 ### *#100DaysOfCode*
+ - [Flights Deal Finder](https://github.com/resole79/flights_deal_finder) Program written in Python and requestes APIs        
+ - [Quiz Game App](https://github.com/resole79/quiz_game_app) GUI version of [Quiz Game](https://github.com/resole79/quiz_game)          
  - [Flash Card Game](https://github.com/resole79/flash_card_game) Flash Card Game written in Python using the Tkinter and Pandas library.
  - [Password Manager](https://github.com/resole79/password_manager_gui) Password Manager written in Python using the Tkinter library.
  - [Pomodoro Timer](https://github.com/resole79/pomodoro_timer) Tkinter version Pomodoro Timer        
