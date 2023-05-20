@@ -21,10 +21,10 @@ I'm studing Python at [udemy](https://www.udemy.com/) 100 Days of Code: The Comp
 
 
 I’m currently learning **Python**, **Tkinter** , **JavaScript**
-
-- ### **I am currently working on [Bin2Dec / Dec2Bin](https://github.com/resole79/binary_to_decimal)**
  
 # Python Projects
+
+ - [Bin2Dec / Dec2Bin](https://github.com/resole79/binary_to_decimal) Small converter project Binary to Decimal develop in Python + Tkinter. Idea from this [github](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Bin2Dec-App.md) page
 
 ### *#100DaysOfCode*
  - [Flights Deal Finder](https://github.com/resole79/flights_deal_finder) Program written in Python and requestes APIs        
