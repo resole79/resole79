@@ -20,7 +20,7 @@ I'm studing Python at [udemy](https://www.udemy.com/) 100 Days of Code: The Comp
 ![python](./image/python.png) ![php](./image/php.png) ![html](./image/html.png) ![css](./image/css.png) ![bootstrap](./image/bootstrap.png) ![sqlite](./image/sqlite.png)![mysql](./image/mysql.png)
 
 
-I’m currently learning **Python**, **Tkinter** , **JavaScript**
+I’m currently learning **Python**, **Flask**, **Tkinter** , **JavaScript**
  
 # Python Projects
 
