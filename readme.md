@@ -17,16 +17,18 @@ I'm studing Python at [udemy](https://www.udemy.com/) 100 Days of Code: The Comp
 
 # Technical Skills
 
-![python](./image/python.png) ![php](./image/php.png) ![html](./image/html.png) ![css](./image/css.png) ![bootstrap](./image/bootstrap.png) ![sqlite](./image/sqlite.png)![mysql](./image/mysql.png)
+[![python](./image/python.png)](https://www.python.org/) [![tkinter](./image/tkinter.png)](https://wiki.python.org/moin/TkInter) [![sqlite](./image/sqlite.png)](https://sqlite.org/index.html) [![flask](./image/flask.png)](https://flask.palletsprojects.com/en/2.3.x/) [![php](./image/php.png)](https://www.php.net/) ![html](./image/html.png) ![css](./image/css.png) [![bootstrap](./image/bootstrap.png)](https://getbootstrap.com/) [![mysql](./image/mysql.png)](https://www.mysql.com/)
 
 
-I’m currently learning **Python**, **Flask**, **Tkinter** , **JavaScript**
+I’m currently learning **Python**, **Flask**, **JavaScript**
  
 # Python Projects
 
  - [Bin2Dec / Dec2Bin](https://github.com/resole79/binary_to_decimal) Small converter project Binary to Decimal develop in Python + Tkinter. Idea from this [github](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Bin2Dec-App.md) page
 
+
 ### *#100DaysOfCode*
+ - [Blog Site](https://github.com/resole79/blog_site) Simple blog site write in python with Flask library            
  - [Flights Deal Finder](https://github.com/resole79/flights_deal_finder) Program written in Python and requestes APIs        
  - [Quiz Game App](https://github.com/resole79/quiz_game_app) GUI version of [Quiz Game](https://github.com/resole79/quiz_game)          
  - [Flash Card Game](https://github.com/resole79/flash_card_game) Flash Card Game written in Python using the Tkinter and Pandas library.
