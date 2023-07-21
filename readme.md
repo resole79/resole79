@@ -21,7 +21,12 @@ I'm studing Python at [udemy](https://www.udemy.com/) 100 Days of Code: The Comp
 
 
 I’m currently learning **Python**, **Flask**, **JavaScript**
- 
+
+# JavaScript Projects
+
+- [The Dicee Game](https://github.com/resole79/the-dicee-game) The **Dicee Game** is a simple web site game written in *html*, *css*, *javascript*       
+
+
 # Python Projects
 
  - [Bin2Dec / Dec2Bin](https://github.com/resole79/binary_to_decimal) Small converter project Binary to Decimal develop in Python + Tkinter. Idea from this [github](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Bin2Dec-App.md) page
