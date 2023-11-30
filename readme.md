@@ -12,12 +12,9 @@ I studied Python at [HyperionDev's](https://www.hyperiondev.com/) Software Engin
 (I have "Skill Bootcamp in **Software Engineering** certificate")           
 
 
-
-I'm studing Python at [udemy](https://www.udemy.com/) 100 Days of Code: The Complete Python Pro Bootcamp for 2023 by Angela Yu
-
 # Technical Skills
 
-[![python](./image/python.png)](https://www.python.org/) [![tkinter](./image/tkinter.png)](https://wiki.python.org/moin/TkInter) [![sqlite](./image/sqlite.png)](https://sqlite.org/index.html) [![flask](./image/flask.png)](https://flask.palletsprojects.com/en/2.3.x/) [![php](./image/php.png)](https://www.php.net/) ![html](./image/html.png) ![css](./image/css.png) [![bootstrap](./image/bootstrap.png)](https://getbootstrap.com/) [![mysql](./image/mysql.png)](https://www.mysql.com/)
+[![python](./image/python.png)](https://www.python.org/) [![tkinter](./image/tkinter.png)](https://wiki.python.org/moin/TkInter) [![sqlite](./image/sqlite.png)](https://sqlite.org/index.html) [![flask](./image/flask.png)](https://flask.palletsprojects.com/en/2.3.x/) [![php](./image/php.png)](https://www.php.net/) ![html](./image/html.png) ![css](./image/css.png)![js](./image/javascript.png) [![bootstrap](./image/bootstrap.png)](https://getbootstrap.com/) [![mysql](./image/mysql.png)](https://www.mysql.com/)
 
 
 I’m currently learning **Python**, **Flask**, **JavaScript**
@@ -25,7 +22,7 @@ I’m currently learning **Python**, **Flask**, **JavaScript**
 # JavaScript Projects
 
 - [The Dicee Game](https://github.com/resole79/the-dicee-game) The **Dicee Game** is a simple web site game written in *html*, *css*, *javascript*       
-
+- [The Simon Game](https://github.com/resole79/the-simon-game) The **Simon Game** is a simple web site game written in *html*, *css*, *javascript*       
 
 # Python Projects
 
@@ -75,6 +72,7 @@ Program that allows the user to access two different financial calculators: an i
 
 # Education
 
+- May 2023 ( still enrolled ) *The Complete 2023 Web Development Bootcamp by Angela Yu at Udemy*
 - March 2023 ( still enrolled ) *100 Days of Code: The Complete Python Pro Bootcamp by Angela Yu at Udemy*
 - December 2022 – March 2023 *Software Engineering Bootcamp at HyperionDev*
 - 2003 *Web Oriented Java Developer*
