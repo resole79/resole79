@@ -14,7 +14,7 @@ I studied Python at [HyperionDev's](https://www.hyperiondev.com/) Software Engin
 
 # Technical Skills
 
-[![python](./image/python.png)](https://www.python.org/) [![tkinter](./image/tkinter.png)](https://wiki.python.org/moin/TkInter) [![sqlite](./image/sqlite.png)](https://sqlite.org/index.html) [![flask](./image/flask.png)](https://flask.palletsprojects.com/en/2.3.x/) [![php](./image/php.png)](https://www.php.net/) ![html](./image/html.png) ![css](./image/css.png)![js](./image/javascript.png) [![bootstrap](./image/bootstrap.png)](https://getbootstrap.com/) [![mysql](./image/mysql.png)](https://www.mysql.com/)
+[![python](./image/python.png)](https://www.python.org/) [![tkinter](./image/tkinter.png)](https://wiki.python.org/moin/TkInter) [![sqlite](./image/sqlite.png)](https://sqlite.org/index.html) [![flask](./image/flask.png)](https://flask.palletsprojects.com/en/2.3.x/) [![php](./image/php.png)](https://www.php.net/) [![html](./image/html.png)](https://html.spec.whatwg.org/) [![css](./image/css.png)](https://www.w3.org/TR/CSS/) [![js](./image/javascript.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript?retiredLocale=it) [![bootstrap](./image/bootstrap.png)](https://getbootstrap.com/) [![mysql](./image/mysql.png)](https://www.mysql.com/)
 
 
 I’m currently learning **Python**, **Flask**, **JavaScript**
