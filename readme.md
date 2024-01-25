@@ -21,8 +21,9 @@ I’m currently learning **Python**, **Flask**, **JavaScript**
 
 # JavaScript Projects
 
-- [The Dicee Game](https://github.com/resole79/the-dicee-game) The **Dicee Game** is a simple web site game written in *html*, *css*, *javascript*       
-- [The Simon Game](https://github.com/resole79/the-simon-game) The **Simon Game** is a simple web site game written in *html*, *css*, *javascript*       
+- [The Dicee Game](https://github.com/resole79/the-dicee-game) is a simple web site game written in *html*, *css*, *javascript*       
+- [The Simon Game](https://github.com/resole79/the-simon-game) is a simple web site game written in *html*, *css*, *javascript*       
+- [To-Do List](https://github.com/resole79/to-do-list) is a app written in html, bootstrap, css, jquery, Node-js, Express, EJS to list the tasks that you have to do, or things that you want to do.         
 
 # Python Projects
 
